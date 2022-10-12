@@ -1,0 +1,14 @@
+{
+  "name": "@jasapienza/part-3-sector-list-experiment-1-map-algebra",
+  "main": "9d6e323b47a6f9a9@2068.js",
+  "version": "2068.0.0",
+  "homepage": "https://observablehq.com/@jasapienza/part-3-sector-list-experiment-1-map-algebra",
+  "author": {
+    "name": "jasapienza",
+    "url": "https://observablehq.com/@jasapienza"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
